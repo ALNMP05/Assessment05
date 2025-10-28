@@ -14,7 +14,7 @@ import java.util.Date;
 public class Assessment05 {
 
     public static void main(String[] args) {
-        Customer cust = new Customer("Arjun Kumar", "Chennai");
+        Customer cust = new Customer("Arjun Kumar", "vellore");
         Item item1 = new Item(2.5, "Wireless Mouse");
         Item item2 = new Item(1.0, "Keyboard");
 

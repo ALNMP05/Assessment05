@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="CustomerManagement.CustomerManagementTest" time="0.06" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="CustomerManagement.CustomerManagementTest" time="0.059" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="24"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/apache-netbeans/jdk/lib"/>
-    <property name="sun.java.command" value="/home/narayanan/NetBeansProjects/Assessment05/target/surefire/surefirebooter-20251016193907975_3.jar /home/narayanan/NetBeansProjects/Assessment05/target/surefire 2025-10-16T19-39-07_882-jvmRun1 surefire-20251016193907975_1tmp surefire_0-20251016193907975_2tmp"/>
+    <property name="sun.java.command" value="/home/narayanan/NetBeansProjects/Assessment05/target/surefire/surefirebooter-20251028124810485_3.jar /home/narayanan/NetBeansProjects/Assessment05/target/surefire 2025-10-28T12-48-10_376-jvmRun1 surefire-20251028124810485_1tmp surefire_0-20251028124810485_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="CustomerManagement.CustomerManagementTest"/>
     <property name="surefire.test.class.path" value="/home/narayanan/NetBeansProjects/Assessment05/target/test-classes:/home/narayanan/NetBeansProjects/Assessment05/target/classes:/home/narayanan/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.3/junit-jupiter-api-5.10.3.jar:/home/narayanan/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/narayanan/.m2/repository/org/junit/platform/junit-platform-commons/1.10.3/junit-platform-commons-1.10.3.jar:/home/narayanan/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/narayanan/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.3/junit-jupiter-params-5.10.3.jar:/home/narayanan/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.3/junit-jupiter-engine-5.10.3.jar:/home/narayanan/.m2/repository/org/junit/platform/junit-platform-engine/1.10.3/junit-platform-engine-1.10.3.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/home/narayanan/NetBeansProjects/Assessment05/target/surefire/surefirebooter-20251016193907975_3.jar"/>
+    <property name="surefire.real.class.path" value="/home/narayanan/NetBeansProjects/Assessment05/target/surefire/surefirebooter-20251028124810485_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="24.0.1+9"/>
     <property name="user.name" value="narayanan"/>
@@ -57,8 +57,8 @@
     <property name="java.class.version" value="68.0"/>
   </properties>
   <testcase name="testCreditPaymentAuthorization" classname="CustomerManagement.CustomerManagementTest" time="0.023"/>
-  <testcase name="testOrderDetailCalculations" classname="CustomerManagement.CustomerManagementTest" time="0.004"/>
-  <testcase name="testCustomerCreation" classname="CustomerManagement.CustomerManagementTest" time="0.002"/>
-  <testcase name="testCheckPaymentAuthorization" classname="CustomerManagement.CustomerManagementTest" time="0.001"/>
-  <testcase name="testCashPaymentAuthorization" classname="CustomerManagement.CustomerManagementTest" time="0.001"/>
+  <testcase name="testOrderDetailCalculations" classname="CustomerManagement.CustomerManagementTest" time="0.003"/>
+  <testcase name="testCustomerCreation" classname="CustomerManagement.CustomerManagementTest" time="0.001"/>
+  <testcase name="testCheckPaymentAuthorization" classname="CustomerManagement.CustomerManagementTest" time="0.002"/>
+  <testcase name="testCashPaymentAuthorization" classname="CustomerManagement.CustomerManagementTest" time="0.002"/>
 </testsuite>
